@@ -1,4 +1,4 @@
 normal file
 track the changes
 to local repo
-then the global repo
+then the global repo(remorte repo)
